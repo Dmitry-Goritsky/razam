@@ -1,0 +1,2 @@
+_razam_main:
+    resource: "@RazamMainBundle/Resources/config/routing.yml"
